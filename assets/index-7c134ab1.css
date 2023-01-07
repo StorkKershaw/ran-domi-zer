@@ -1,4 +1,4 @@
-@charset "UTF-8";#app{user-select:none!important;-webkit-touch-callout:none!important;-moz-osx-font-smoothing:grayscale;text-align:center;margin-top:40px}/*!
+@charset "UTF-8";#app{-webkit-touch-callout:none!important;-webkit-user-select:none!important;-moz-user-select:none!important;-ms-user-select:none!important;user-select:none!important;text-align:center;margin-top:40px}/*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
